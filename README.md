@@ -20,7 +20,7 @@
 
 </div>
 
-## 📌 精选项目
+## 🛠️ 最近在干什么
 
 <table>
 <tr>
@@ -38,7 +38,7 @@ DeepSeek Harness 本地视频制作与设计插件：多轨剪辑、模板与设
 
 <a href="https://github.com/Ebony-Vinyl/EACbot"><img src="https://img.shields.io/badge/EACbot-4d7ea8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="EACbot" /></a>
 
-自托管私人 AI 助理平台：每个 Bot 一台云电脑，外加 Bot 控制的悬浮 Live2D 伴生伙伴。
+Muse 的平替——同类型完全免费的开源产品：自托管私人 AI 助理平台，每个 Bot 一台云电脑，外加 Bot 控制的悬浮 Live2D 伴生伙伴。
 
 <a href="https://github.com/Ebony-Vinyl/EACbot/stargazers"><img src="https://img.shields.io/github/stars/Ebony-Vinyl/EACbot?style=flat-square&amp;label=%E2%98%85&amp;labelColor=1b2733&amp;color=4d7ea8" alt="Star" /></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;labelColor=1b2733" alt="TypeScript" />
