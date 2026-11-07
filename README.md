@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Nefert 的主页横幅 · 摄影PaperCrances1847" />
+  <img src="./assets/banner.png" width="60%" alt="Nefert 的主页横幅 · 摄影PaperCrances1847" />
 </p>
 
 <div align="center">
@@ -22,37 +22,9 @@
 
 </div>
 
-## 🌊 关于我
-
-- **免费模型接入** —— [dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)：在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量
-- **EAC · 揽尽万象**（Embracing All Creation）—— 以 [EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop) 桌面版、[EAC-Pack](https://github.com/Ebony-Vinyl/EAC-Pack) 插件整合包、[EAC-design-world](https://github.com/Ebony-Vinyl/EAC-design-world) 本地视频制作与设计为核心的插件共生系列，让数百个 DSH 插件和谐共存
-- **AI 助理与进化** —— [EACbot](https://github.com/Ebony-Vinyl/EACbot)：自托管私人 AI 助理平台，每个 Bot 一台云电脑，外加悬浮 Live2D 伴生伙伴；[dsh-augment](https://github.com/Ebony-Vinyl/dsh-augment)：省 Token 的上下文压缩 + 证据驱动的自我进化
-
 ## 📌 精选项目
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Ebony-Vinyl/dsh-our-free-model"><img src="https://img.shields.io/badge/dsh--our--free--model-4d7ea8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="dsh-our-free-model" /></a>
-
-在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。
-
-<a href="https://github.com/Ebony-Vinyl/dsh-our-free-model/stargazers"><img src="https://img.shields.io/github/stars/Ebony-Vinyl/dsh-our-free-model?style=flat-square&amp;label=%E2%98%85&amp;labelColor=1b2733&amp;color=4d7ea8" alt="Star" /></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;labelColor=1b2733" alt="JavaScript" />
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Ebony-Vinyl/EAC-Desktop"><img src="https://img.shields.io/badge/EAC--Desktop-4d7ea8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="EAC-Desktop" /></a>
-
-揽尽万象（桌面版）—— 致力于让数百个 DSH 插件和谐共存，EAC 插件共生系列的桌面端宿主。
-
-<a href="https://github.com/Ebony-Vinyl/EAC-Desktop/stargazers"><img src="https://img.shields.io/github/stars/Ebony-Vinyl/EAC-Desktop?style=flat-square&amp;label=%E2%98%85&amp;labelColor=1b2733&amp;color=4d7ea8" alt="Star" /></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;labelColor=1b2733" alt="JavaScript" />
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -66,34 +38,12 @@ DeepSeek Harness 本地视频制作与设计插件：多轨剪辑、模板与设
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Ebony-Vinyl/EAC-Pack"><img src="https://img.shields.io/badge/EAC--Pack-4d7ea8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="EAC-Pack" /></a>
-
-揽尽万象（插件整合包）—— 一个包装齐 EAC 全家桶，开箱即用的 DSH 插件共生套件。
-
-<a href="https://github.com/Ebony-Vinyl/EAC-Pack/stargazers"><img src="https://img.shields.io/github/stars/Ebony-Vinyl/EAC-Pack?style=flat-square&amp;label=%E2%98%85&amp;labelColor=1b2733&amp;color=4d7ea8" alt="Star" /></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;labelColor=1b2733" alt="JavaScript" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 <a href="https://github.com/Ebony-Vinyl/EACbot"><img src="https://img.shields.io/badge/EACbot-4d7ea8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="EACbot" /></a>
 
 自托管私人 AI 助理平台：每个 Bot 一台云电脑，外加 Bot 控制的悬浮 Live2D 伴生伙伴。
 
 <a href="https://github.com/Ebony-Vinyl/EACbot/stargazers"><img src="https://img.shields.io/github/stars/Ebony-Vinyl/EACbot?style=flat-square&amp;label=%E2%98%85&amp;labelColor=1b2733&amp;color=4d7ea8" alt="Star" /></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;labelColor=1b2733" alt="TypeScript" />
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Ebony-Vinyl/dsh-augment"><img src="https://img.shields.io/badge/dsh--augment-4d7ea8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="dsh-augment" /></a>
-
-为 DeepSeek Harness 提供省 Token 的上下文压缩与证据驱动的自我进化。
-
-<a href="https://github.com/Ebony-Vinyl/dsh-augment/stargazers"><img src="https://img.shields.io/github/stars/Ebony-Vinyl/dsh-augment?style=flat-square&amp;label=%E2%98%85&amp;labelColor=1b2733&amp;color=4d7ea8" alt="Star" /></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;labelColor=1b2733" alt="JavaScript" />
 
 </td>
 </tr>
