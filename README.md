@@ -8,7 +8,7 @@
 <br><br>
 <pre>
 💼 独立开发者 · DSH 插件生态
-🛠 EAC 拢尽万象 · 免费模型 · AI Agent
+🛠 EAC 揽尽万象 · 免费模型 · AI Agent
 💻 JavaScript · TypeScript · Rust
 🤖 桌面工具 · 自动化 · Live2D
 ✨ 让前沿模型装进每个人的 dsh 里
@@ -31,9 +31,9 @@
 
 **Nefert (Ebony-Vinyl) · 独立开发者**
 
-*但为君故，But for Your Sake。*
+*独立开发者。*
 
-专注 **DSH 插件生态与免费模型接入**：在 [dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) 里装一个插件，就能免登录、免注册、免 API Key 用上 DeepSeek V4.1 Flash、Kimi K3 等前沿模型。围绕它打造 **EAC（Embracing All Creation · 拢尽万象）** 系列，让数百个 DSH 插件和谐共存，也做 [AI 助理平台](https://github.com/Ebony-Vinyl/EACbot)与[本地视频设计与制作](https://github.com/Ebony-Vinyl/EAC-design-world)。
+专注 **DSH 插件生态与免费模型接入**：在 [dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) 里装一个插件，就能免登录、免注册、免 API Key 用上 DeepSeek V4.1 Flash、Kimi K3 等前沿模型。围绕它打造 **EAC（Embracing All Creation · 揽尽万象）** 系列，让数百个 DSH 插件和谐共存，也做 [AI 助理平台](https://github.com/Ebony-Vinyl/EACbot)与[本地视频设计与制作](https://github.com/Ebony-Vinyl/EAC-design-world)。
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ebony-Vinyl/Ebony-Vinyl/output/github-contribution-grid-snake-dark.svg" />
@@ -91,9 +91,9 @@
 | 项目 | 一句话 | 语言 | Star |
 |------|--------|------|:----:|
 | **[dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量 | JavaScript | ![](https://img.shields.io/github/stars/Ebony-Vinyl/dsh-our-free-model?style=flat&amp;label=%E2%98%85&amp;color=e861a1) |
-| **[EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop)** | 拢尽万象（桌面版）—— 致力于让数百个 DSH 插件和谐共存 | JavaScript | ![](https://img.shields.io/github/stars/Ebony-Vinyl/EAC-Desktop?style=flat&amp;label=%E2%98%85&amp;color=e861a1) |
+| **[EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop)** | 揽尽万象（桌面版）—— 致力于让数百个 DSH 插件和谐共存 | JavaScript | ![](https://img.shields.io/github/stars/Ebony-Vinyl/EAC-Desktop?style=flat&amp;label=%E2%98%85&amp;color=e861a1) |
 | **[EAC-design-world](https://github.com/Ebony-Vinyl/EAC-design-world)** | DeepSeek Harness 本地视频制作与设计插件：多轨剪辑、模板与设计体系、原生预览画布和真实文件导出 | JavaScript | ![](https://img.shields.io/github/stars/Ebony-Vinyl/EAC-design-world?style=flat&amp;label=%E2%98%85&amp;color=e861a1) |
-| **[EAC-Pack](https://github.com/Ebony-Vinyl/EAC-Pack)** | 拢尽万象（插件整合包）—— 致力于让数百个 DSH 插件和谐共存 | JavaScript | ![](https://img.shields.io/github/stars/Ebony-Vinyl/EAC-Pack?style=flat&amp;label=%E2%98%85&amp;color=e861a1) |
+| **[EAC-Pack](https://github.com/Ebony-Vinyl/EAC-Pack)** | 揽尽万象（插件整合包）—— 致力于让数百个 DSH 插件和谐共存 | JavaScript | ![](https://img.shields.io/github/stars/Ebony-Vinyl/EAC-Pack?style=flat&amp;label=%E2%98%85&amp;color=e861a1) |
 | **[EACbot](https://github.com/Ebony-Vinyl/EACbot)** | 自托管私人 AI 助理平台：每个 Bot 一台云电脑，外加 Bot 控制的悬浮 Live2D 伴生伙伴 | TypeScript | ![](https://img.shields.io/github/stars/Ebony-Vinyl/EACbot?style=flat&amp;label=%E2%98%85&amp;color=e861a1) |
 | **[dsh-augment](https://github.com/Ebony-Vinyl/dsh-augment)** | 省 Token 的上下文压缩 + 证据驱动的自我进化（DeepSeek Harness） | JavaScript | ![](https://img.shields.io/github/stars/Ebony-Vinyl/dsh-augment?style=flat&amp;label=%E2%98%85&amp;color=e861a1) |
 
