@@ -12,10 +12,8 @@
 
 <a href="https://github.com/Ebony-Vinyl/dsh-our-free-model"><img src="https://img.shields.io/github/stars/Ebony-Vinyl/dsh-our-free-model?style=flat-square&amp;label=%E2%98%85&amp;labelColor=1b2733&amp;color=4d7ea8" alt="dsh-our-free-model Star 数" /></a>
 <a href="https://github.com/Ebony-Vinyl?tab=followers"><img src="https://img.shields.io/github/followers/Ebony-Vinyl?style=flat-square&amp;label=%E5%85%B3%E6%B3%A8&amp;labelColor=1b2733&amp;color=4d7ea8" alt="关注者数" /></a>
-<a href="https://github.com/Ebony-Vinyl?tab=repositories"><img src="https://img.shields.io/github/repos/Ebony-Vinyl?style=flat-square&amp;label=%E4%BB%93%E5%BA%93&amp;labelColor=1b2733&amp;color=4d7ea8" alt="公开仓库数" /></a>
-
-<br><br>
-
+<a href="https://github.com/Ebony-Vinyl"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEbony-Vinyl&amp;query=%24.public_repos&amp;label=%E4%BB%93%E5%BA%93&amp;labelColor=1b2733&amp;color=4d7ea8&amp;style=flat-square" alt="公开仓库数" /></a>
+<br>
 <a href="https://github.com/Ebony-Vinyl?tab=repositories"><img src="https://skillicons.dev/icons?i=py,ts,js,cpp,react,vite,electron,tailwind,flutter,fastapi,flask,tensorflow,postgres,docker,git" width="100%" alt="我的技术栈：Python、TypeScript、JavaScript、C++、React、Vite、Electron、Tailwind CSS、Flutter、FastAPI、Flask、TensorFlow、PostgreSQL、Docker、Git" /></a>
 <br>
 <a href="https://github.com/Ebony-Vinyl?tab=repositories"><img src="https://skillicons.dev/icons?i=pnpm,vitest" width="12%" alt="pnpm、Vitest" /></a>
@@ -116,15 +114,6 @@ DeepSeek Harness 本地视频制作与设计插件：多轨剪辑、模板与设
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ebony-Vinyl/Ebony-Vinyl/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/Ebony-Vinyl/Ebony-Vinyl/output/github-contribution-grid-snake.svg" width="100%" alt="Nefert 的 GitHub 贡献贪吃蛇动画" />
 </picture>
-
-## 📮 联系我
-
-- **Issue**：任何仓库都欢迎直接开 Issue，我会看。
-- **PR**：欢迎，尤其欢迎 DSH 插件与桌面工具方向的补丁。
-
-<!-- 想放邮箱的话，把下面这行的注释去掉并换成你的邮箱：
-<a href="mailto:你的邮箱@qq.com"><img src="https://img.shields.io/badge/Email-你的邮箱%40qq.com-6f8d9f?style=flat" alt="通过邮箱联系我" /></a>
--->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;color=0:4d7ea8,100:a3c8e8&amp;section=footer" width="100%" alt="" />
