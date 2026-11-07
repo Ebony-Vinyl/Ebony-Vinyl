@@ -115,8 +115,3 @@ DeepSeek Harness 本地视频制作与设计插件：多轨剪辑、模板与设
   <img src="https://raw.githubusercontent.com/Ebony-Vinyl/Ebony-Vinyl/output/github-contribution-grid-snake.svg" width="100%" alt="Nefert 的 GitHub 贡献贪吃蛇动画" />
 </picture>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;color=0:4d7ea8,100:a3c8e8&amp;section=footer" width="100%" alt="" />
-</p>
-
-<p align="center"><sub>横幅摄影 <b>PaperCrances1847</b> · 版式灵感 <a href="https://github.com/Fish-under-sea">Fish-under-sea</a> / <a href="https://github.com/innng/innng">innng</a> · 统计卡片 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a> · 贪吃蛇 <a href="https://github.com/Platane/snk">Platane/snk</a></sub></p>
