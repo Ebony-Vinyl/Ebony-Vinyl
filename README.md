@@ -1,64 +1,106 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Nefert 的主页横幅 · 摄影PaperCrances1847" />
+</p>
+
 <div align="center">
 
-<img src="./assets/profile.jpg" width="25%" align="right" alt="Nefert 的主页配图" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&amp;weight=500&amp;size=50&amp;duration=4000&amp;pause=1200&amp;color=A3C8E8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;random=false&amp;width=1300&amp;height=140&amp;lines=Hello+hello;I%27m+Nefert%2C+a+personal+developer" />
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&amp;weight=500&amp;size=50&amp;duration=4000&amp;pause=1200&amp;color=4D7EA8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;random=false&amp;width=1300&amp;height=140&amp;lines=Hello+hello;I%27m+Nefert%2C+a+personal+developer" width="70%" alt="Hello hello. I'm Nefert, a personal developer." />
-</picture>
+# Nefert
+
+### 独立开发者 · DSH 插件生态 · AI Agent
+
+*免登录 · 免注册 · 免 API Key —— 把前沿模型装进每个人的 dsh 里*
+
+<a href="https://github.com/Ebony-Vinyl/dsh-our-free-model"><img src="https://img.shields.io/github/stars/Ebony-Vinyl/dsh-our-free-model?style=flat-square&amp;label=%E2%98%85&amp;labelColor=1b2733&amp;color=4d7ea8" alt="dsh-our-free-model Star 数" /></a>
+<a href="https://github.com/Ebony-Vinyl?tab=followers"><img src="https://img.shields.io/github/followers/Ebony-Vinyl?style=flat-square&amp;label=%E5%85%B3%E6%B3%A8&amp;labelColor=1b2733&amp;color=4d7ea8" alt="关注者数" /></a>
+<a href="https://github.com/Ebony-Vinyl?tab=repositories"><img src="https://img.shields.io/github/repos/Ebony-Vinyl?style=flat-square&amp;label=%E4%BB%93%E5%BA%93&amp;labelColor=1b2733&amp;color=4d7ea8" alt="公开仓库数" /></a>
+
 <br><br>
-<pre>
-💼 独立开发者 · DSH 插件生态
-🛠 EAC 揽尽万象 · 免费模型 · AI Agent
-💻 JavaScript · TypeScript · Rust
-🤖 桌面工具 · 自动化 · Live2D
-✨ 让前沿模型装进每个人的 dsh 里
-</pre>
-<br>
-<picture>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="78" height="40" alt="奔跑的小动物动图" />
-</picture>
-<br><br>
-<a href="https://github.com/Ebony-Vinyl?tab=repositories"><img src="https://img.shields.io/badge/Projects-Ebony--Vinyl-e861a1?style=flat" alt="查看我的项目" /></a>
-<a href="https://github.com/Ebony-Vinyl/dsh-our-free-model"><img src="https://img.shields.io/github/stars/Ebony-Vinyl/dsh-our-free-model?style=flat&amp;label=%E2%98%85&amp;color=e861a1" alt="dsh-our-free-model 的 Star 数" /></a>
-<br><br>
+
 <a href="https://github.com/Ebony-Vinyl?tab=repositories"><img src="https://skillicons.dev/icons?i=py,ts,js,cpp,react,vite,electron,tailwind,flutter,fastapi,flask,tensorflow,postgres,docker,git" width="100%" alt="我的技术栈：Python、TypeScript、JavaScript、C++、React、Vite、Electron、Tailwind CSS、Flutter、FastAPI、Flask、TensorFlow、PostgreSQL、Docker、Git" /></a>
 <br>
 <a href="https://github.com/Ebony-Vinyl?tab=repositories"><img src="https://skillicons.dev/icons?i=pnpm,vitest" width="12%" alt="pnpm、Vitest" /></a>
 
 </div>
 
-<br clear="both">
+## 🌊 关于我
 
-**Nefert (Ebony-Vinyl) · 独立开发者**
+- **免费模型接入** —— [dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)：在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量
+- **EAC · 揽尽万象**（Embracing All Creation）—— 以 [EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop) 桌面版、[EAC-Pack](https://github.com/Ebony-Vinyl/EAC-Pack) 插件整合包、[EAC-design-world](https://github.com/Ebony-Vinyl/EAC-design-world) 本地视频制作与设计为核心的插件共生系列，让数百个 DSH 插件和谐共存
+- **AI 助理与进化** —— [EACbot](https://github.com/Ebony-Vinyl/EACbot)：自托管私人 AI 助理平台，每个 Bot 一台云电脑，外加悬浮 Live2D 伴生伙伴；[dsh-augment](https://github.com/Ebony-Vinyl/dsh-augment)：省 Token 的上下文压缩 + 证据驱动的自我进化
 
-*独立开发者。*
+## 📌 精选项目
 
-专注 **DSH 插件生态与免费模型接入**：在 [dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) 里装一个插件，就能免登录、免注册、免 API Key 用上 DeepSeek V4.1 Flash、Kimi K3 等前沿模型。围绕它打造 **EAC（Embracing All Creation · 揽尽万象）** 系列，让数百个 DSH 插件和谐共存，也做 [AI 助理平台](https://github.com/Ebony-Vinyl/EACbot)与[本地视频设计与制作](https://github.com/Ebony-Vinyl/EAC-design-world)。
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ebony-Vinyl/Ebony-Vinyl/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Ebony-Vinyl/Ebony-Vinyl/output/github-contribution-grid-snake.svg" width="100%" alt="Nefert 的 GitHub 贡献贪吃蛇动画" />
-</picture>
+<a href="https://github.com/Ebony-Vinyl/dsh-our-free-model"><img src="https://img.shields.io/badge/dsh--our--free--model-4d7ea8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="dsh-our-free-model" /></a>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ebony-Vinyl&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;theme=github_dark" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Ebony-Vinyl&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" width="100%" alt="Nefert 的 GitHub 统计卡片" />
-      </picture>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebony-Vinyl&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;theme=github_dark" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebony-Vinyl&amp;layout=compact&amp;hide_border=true&amp;langs_count=8" width="100%" alt="Nefert 的常用语言统计" />
-      </picture>
-    </td>
-  </tr>
+在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。
+
+<a href="https://github.com/Ebony-Vinyl/dsh-our-free-model/stargazers"><img src="https://img.shields.io/github/stars/Ebony-Vinyl/dsh-our-free-model?style=flat-square&amp;label=%E2%98%85&amp;labelColor=1b2733&amp;color=4d7ea8" alt="Star" /></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;labelColor=1b2733" alt="JavaScript" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Ebony-Vinyl/EAC-Desktop"><img src="https://img.shields.io/badge/EAC--Desktop-4d7ea8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="EAC-Desktop" /></a>
+
+揽尽万象（桌面版）—— 致力于让数百个 DSH 插件和谐共存，EAC 插件共生系列的桌面端宿主。
+
+<a href="https://github.com/Ebony-Vinyl/EAC-Desktop/stargazers"><img src="https://img.shields.io/github/stars/Ebony-Vinyl/EAC-Desktop?style=flat-square&amp;label=%E2%98%85&amp;labelColor=1b2733&amp;color=4d7ea8" alt="Star" /></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;labelColor=1b2733" alt="JavaScript" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Ebony-Vinyl/EAC-design-world"><img src="https://img.shields.io/badge/EAC--design--world-4d7ea8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="EAC-design-world" /></a>
+
+DeepSeek Harness 本地视频制作与设计插件：多轨剪辑、模板与设计体系、原生预览画布和真实文件导出。
+
+<a href="https://github.com/Ebony-Vinyl/EAC-design-world/stargazers"><img src="https://img.shields.io/github/stars/Ebony-Vinyl/EAC-design-world?style=flat-square&amp;label=%E2%98%85&amp;labelColor=1b2733&amp;color=4d7ea8" alt="Star" /></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;labelColor=1b2733" alt="JavaScript" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Ebony-Vinyl/EAC-Pack"><img src="https://img.shields.io/badge/EAC--Pack-4d7ea8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="EAC-Pack" /></a>
+
+揽尽万象（插件整合包）—— 一个包装齐 EAC 全家桶，开箱即用的 DSH 插件共生套件。
+
+<a href="https://github.com/Ebony-Vinyl/EAC-Pack/stargazers"><img src="https://img.shields.io/github/stars/Ebony-Vinyl/EAC-Pack?style=flat-square&amp;label=%E2%98%85&amp;labelColor=1b2733&amp;color=4d7ea8" alt="Star" /></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;labelColor=1b2733" alt="JavaScript" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Ebony-Vinyl/EACbot"><img src="https://img.shields.io/badge/EACbot-4d7ea8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="EACbot" /></a>
+
+自托管私人 AI 助理平台：每个 Bot 一台云电脑，外加 Bot 控制的悬浮 Live2D 伴生伙伴。
+
+<a href="https://github.com/Ebony-Vinyl/EACbot/stargazers"><img src="https://img.shields.io/github/stars/Ebony-Vinyl/EACbot?style=flat-square&amp;label=%E2%98%85&amp;labelColor=1b2733&amp;color=4d7ea8" alt="Star" /></a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;labelColor=1b2733" alt="TypeScript" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Ebony-Vinyl/dsh-augment"><img src="https://img.shields.io/badge/dsh--augment-4d7ea8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="dsh-augment" /></a>
+
+为 DeepSeek Harness 提供省 Token 的上下文压缩与证据驱动的自我进化。
+
+<a href="https://github.com/Ebony-Vinyl/dsh-augment/stargazers"><img src="https://img.shields.io/github/stars/Ebony-Vinyl/dsh-augment?style=flat-square&amp;label=%E2%98%85&amp;labelColor=1b2733&amp;color=4d7ea8" alt="Star" /></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;labelColor=1b2733" alt="JavaScript" />
+
+</td>
+</tr>
 </table>
 
 <details>
-<summary><strong>技术栈</strong></summary>
+<summary><strong>🧰 技术栈明细</strong></summary>
 
 <table>
 <tr><td><b>语言</b></td><td>
@@ -85,21 +127,47 @@
 
 </details>
 
-<details>
-<summary><strong>⭐ 精选项目</strong></summary>
+## 📊 GitHub 数据
 
-| 项目 | 一句话 | 语言 | Star |
-|------|--------|------|:----:|
-| **[dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量 | JavaScript | ![](https://img.shields.io/github/stars/Ebony-Vinyl/dsh-our-free-model?style=flat&amp;label=%E2%98%85&amp;color=e861a1) |
-| **[EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop)** | 揽尽万象（桌面版）—— 致力于让数百个 DSH 插件和谐共存 | JavaScript | ![](https://img.shields.io/github/stars/Ebony-Vinyl/EAC-Desktop?style=flat&amp;label=%E2%98%85&amp;color=e861a1) |
-| **[EAC-design-world](https://github.com/Ebony-Vinyl/EAC-design-world)** | DeepSeek Harness 本地视频制作与设计插件：多轨剪辑、模板与设计体系、原生预览画布和真实文件导出 | JavaScript | ![](https://img.shields.io/github/stars/Ebony-Vinyl/EAC-design-world?style=flat&amp;label=%E2%98%85&amp;color=e861a1) |
-| **[EAC-Pack](https://github.com/Ebony-Vinyl/EAC-Pack)** | 揽尽万象（插件整合包）—— 致力于让数百个 DSH 插件和谐共存 | JavaScript | ![](https://img.shields.io/github/stars/Ebony-Vinyl/EAC-Pack?style=flat&amp;label=%E2%98%85&amp;color=e861a1) |
-| **[EACbot](https://github.com/Ebony-Vinyl/EACbot)** | 自托管私人 AI 助理平台：每个 Bot 一台云电脑，外加 Bot 控制的悬浮 Live2D 伴生伙伴 | TypeScript | ![](https://img.shields.io/github/stars/Ebony-Vinyl/EACbot?style=flat&amp;label=%E2%98%85&amp;color=e861a1) |
-| **[dsh-augment](https://github.com/Ebony-Vinyl/dsh-augment)** | 省 Token 的上下文压缩 + 证据驱动的自我进化（DeepSeek Harness） | JavaScript | ![](https://img.shields.io/github/stars/Ebony-Vinyl/dsh-augment?style=flat&amp;label=%E2%98%85&amp;color=e861a1) |
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ebony-Vinyl&amp;theme=github_dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ebony-Vinyl&amp;theme=github" width="100%" alt="Nefert 的 GitHub 资料卡" />
+      </picture>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ebony-Vinyl&amp;theme=github_dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ebony-Vinyl&amp;theme=github" width="100%" alt="Nefert 的提交与 PR 统计" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ebony-Vinyl&amp;theme=github_dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ebony-Vinyl&amp;theme=github" width="100%" alt="仓库语言占比" />
+      </picture>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ebony-Vinyl&amp;theme=github_dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ebony-Vinyl&amp;theme=github" width="100%" alt="高产时段分布" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-</details>
+## 🐍 贡献足迹
 
-## 联系我
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ebony-Vinyl/Ebony-Vinyl/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Ebony-Vinyl/Ebony-Vinyl/output/github-contribution-grid-snake.svg" width="100%" alt="Nefert 的 GitHub 贡献贪吃蛇动画" />
+</picture>
+
+## 📮 联系我
 
 - **Issue**：任何仓库都欢迎直接开 Issue，我会看。
 - **PR**：欢迎，尤其欢迎 DSH 插件与桌面工具方向的补丁。
@@ -108,4 +176,8 @@
 <a href="mailto:你的邮箱@qq.com"><img src="https://img.shields.io/badge/Email-你的邮箱%40qq.com-6f8d9f?style=flat" alt="通过邮箱联系我" /></a>
 -->
 
-<sub>版式参考 <a href="https://github.com/Fish-under-sea">Fish-under-sea</a>（其版式源自 <a href="https://github.com/innng/innng">innng</a>）；贪吃蛇由 <a href="https://github.com/Platane/snk">Platane/snk</a> 生成，统计卡片来自 <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>。</sub>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;color=0:4d7ea8,100:a3c8e8&amp;section=footer" width="100%" alt="" />
+</p>
+
+<p align="center"><sub>横幅摄影 <b>PaperCrances1847</b> · 版式灵感 <a href="https://github.com/Fish-under-sea">Fish-under-sea</a> / <a href="https://github.com/innng/innng">innng</a> · 统计卡片 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a> · 贪吃蛇 <a href="https://github.com/Platane/snk">Platane/snk</a></sub></p>
